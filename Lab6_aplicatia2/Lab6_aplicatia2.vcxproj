@@ -138,7 +138,7 @@
     <ClInclude Include="glut.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="FETE_ELIMINATE.c" />
+    <ClCompile Include="fete_eliminate.c" />
   </ItemGroup>
   <ItemGroup>
     <CopyFileToFolders Include="dlls\glu32.dll">

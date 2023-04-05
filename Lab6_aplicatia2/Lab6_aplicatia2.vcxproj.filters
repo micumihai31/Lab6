@@ -38,7 +38,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="FETE_ELIMINATE.c">
+    <ClCompile Include="fete_eliminate.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

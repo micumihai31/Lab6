@@ -38,7 +38,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CUB.C">
+    <ClCompile Include="cub.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -38,7 +38,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="TEST_ADANCIME.c">
+    <ClCompile Include="test_adancime.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
