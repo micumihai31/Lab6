@@ -13,7 +13,7 @@
 void myInit()
 {
 	glClearColor(0.0, 0.0, 0.0, 1.0);
-	glEnable(GL_DEPTH_TEST);
+	//glEnable(GL_DEPTH_TEST);
 }
 
 void CALLBACK display()
